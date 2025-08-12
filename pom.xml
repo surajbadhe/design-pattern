@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tvf</groupId>
-	<artifactId>creational-design-pattern</artifactId>
+	<artifactId>design-pattern</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>creational-design-pattern</name>
+	<name>design-pattern</name>
 	<description>Creational Design Pattern</description>
 	<url/>
 	<licenses>
